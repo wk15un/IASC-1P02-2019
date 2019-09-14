@@ -1,0 +1,50 @@
+
+<html>
+><head>
+  <title>Image of Brock University page</title>
+</head>
+<body>
+   <font color="black">IASC <font color="red">1P02 is <font color= "black"><em>sweet?</em></font>
+ </body>
+<img src="Image/brocklogo.png" alt="">
+<img src="https://discover.brocku.ca/wp-content/uploads/location.jpg" alt="Brock Logo">
+<ol>
+  <li>Number One</li>
+  <li>Number Two</li>
+  <li>Number Three</li>
+</ol>
+<ul>
+  <li>i'm the first point</li>
+  <li>i'm the secod point</li>
+  <li>i'm the thrid point</li>
+</ul>
+
+<table border="1">
+  <tr>
+    <td>Brock</td>
+  </tr>
+</table>
+
+<table width="200"height="200" border="1">
+  <tr>
+    <td width="100"height="100">top left cell</td>
+    <td width="100"height="100">top right cell</td>
+  </tr>
+  <tr>
+    <td colspan="2"="bottom left cell"width="50000"height="10">bottom left cell </td>
+</tr>
+</table>
+
+<<table width="200"height="200" border="1">
+  <tr>
+    <td width="100"height="100">top left cell</td>
+    <td rowspan="2"width="100"height="100">top right cell</td>
+  </tr>
+  <tr>
+    <td width="100"height="100">bottom left cell </td>
+  </tr>
+</table>
+
+
+
+ </html>
