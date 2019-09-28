@@ -1,0 +1,23 @@
+body{
+  font-family: "Arial";
+}
+
+p{text-transform: uppercase;}
+
+
+ul{color: green;
+font-style: italic;}
+
+li{ display: inline;
+  font-size: 30px
+  }
+
+
+.box {
+  width: 3px
+  border-width: 10px;
+  border-color: black;
+  border-style: solid;
+  border-bottom: -30px
+
+}
