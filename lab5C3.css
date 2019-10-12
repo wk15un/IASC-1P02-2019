@@ -1,0 +1,42 @@
+body {
+  color:Black;
+  background-color: green;
+}
+
+#wrapper{
+  width: 750px;
+  margin: 0 auto;
+  background-color:green ;
+}
+
+
+#box1{
+  float: right;
+  height: 180px;
+  width: 180px;
+  background-color:red;
+}
+
+#box2{
+  float: left;
+  height: 199px;
+  width: 199px;
+  background-color:blue;
+
+}
+
+#blank{
+  margin: 0 auto;
+  height: 199px;
+  width: 199px;
+  background-color:green;
+
+}
+
+#box3{
+  margin:0 auto;
+  height:199px;
+  width:199px;
+  background-color:yellow;
+
+}

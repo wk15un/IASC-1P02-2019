@@ -1,0 +1,40 @@
+body {
+  color:white;
+  background-color: black;
+}
+
+
+#wrapper{
+  width: 800px;
+  margin: 0 auto;
+  background-color: red;
+}
+
+
+
+#header{
+	height:50px;
+	text-align: center;
+  background-color: red;
+
+}
+
+#leftbody{
+  float:;
+  width: 190px;
+  height: 450px;
+  background-color: green;
+  width: 800px
+}
+
+#bottom{
+	text-align:left;
+	height:50px;
+	clear:both;
+  background-color: blue;
+}
+
+#blank2{
+	height:50px;
+	clear:both;
+  background-color: white ;
