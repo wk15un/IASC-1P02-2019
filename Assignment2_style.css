@@ -1,0 +1,44 @@
+h2{
+  color: red;
+}
+
+h3{
+  font-size: 30px;
+
+}
+
+li{
+  font-style: italic;
+
+}
+
+li{
+  text-transform: uppercase;
+}
+
+h2{
+  position: relative;
+  left: 10px;
+}
+
+h3{
+  position: absolute;
+  right: 5px;
+}
+
+h3{
+  position: fixed;
+  right: 10px;
+}
+
+h3, h4, li {
+  color: green;
+}
+
+li{
+  padding:20px;
+  background-color: orange;
+  border: solid blue;
+  margin: 20px;
+
+}
